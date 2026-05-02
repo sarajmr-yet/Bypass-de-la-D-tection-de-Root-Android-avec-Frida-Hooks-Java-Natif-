@@ -151,13 +151,13 @@ Puis dans la console Frida :
 ###  1. Configuration et connexion ADB
 ![ADB Setup](images/adb_setup.png)
 
-###  4. Application avant bypass
+###  2. Application avant bypass
 ![Before](images/before.png)
 
-###  5. Logs Frida (bypass actif)
+###  3. Logs Frida (bypass actif)
 ![Frida Logs](images/frida_logs.png)
 
-###  6. Application après bypass
+###  4. Application après bypass
 ![After](images/after.png)
 
 ---
