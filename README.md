@@ -151,12 +151,6 @@ Puis dans la console Frida :
 ###  1. Configuration et connexion ADB
 ![ADB Setup](images/adb_setup.png)
 
-###  2. Lancement frida-server
-![Frida Server](images/frida_server.png)
-
-###  3. Liste des applications
-![Frida PS](images/frida_ps.png)
-
 ###  4. Application avant bypass
 ![Before](images/before.png)
 
